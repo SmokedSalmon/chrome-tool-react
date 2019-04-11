@@ -1,0 +1,32 @@
+{
+  "name": "DTC-debugger",
+  "version": "2.0.1",
+  "description": "This extension is for DTC engineer team local E2E. ",
+  "author": "Roman",
+  "permissions": [
+    "webRequest",
+    "cookies",
+    "storage",
+    "<all_urls>",
+    "downloads",
+    "clipboardRead",
+    "clipboardWrite"
+  ],
+  "background": {
+    "scripts": [
+      "./background.js"
+    ],
+    "persistent": true
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "static/dtc.png",
+    "32": "static/dtc.png",
+    "48": "static/dtc.png",
+    "128": "static/dtc.png"
+  },
+  "manifest_version": 2
+}
