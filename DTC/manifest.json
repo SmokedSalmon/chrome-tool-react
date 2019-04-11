@@ -10,7 +10,13 @@
     "<all_urls>",
     "downloads",
     "clipboardRead",
-    "clipboardWrite"
+    "clipboardWrite",
+    "tabs",
+    "activeTab",
+    "system.display",
+    "*://*/*",
+    "webRequestBlocking",
+    "background"
   ],
   "background": {
     "scripts": [
