@@ -16,4 +16,4 @@
 
 3. You can add your profile in debuger tool and log in by debug tool.
 
-![Scheme](images.png)
+![Scheme](image.png)
