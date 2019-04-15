@@ -1,21 +1,17 @@
 {
-  "name": "DTC-debugger",
-  "version": "2.0.1",
-  "description": "This extension is for DTC engineer team local E2E. ",
+  "name": "DTC",
+  "version": "2.0.2",
+  "description": "This extension is for DTC engineer team local E2E",
   "author": "Roman",
   "permissions": [
-    "webRequest",
-    "cookies",
-    "storage",
-    "<all_urls>",
-    "downloads",
-    "clipboardRead",
-    "clipboardWrite",
     "tabs",
+    "webRequest",
     "activeTab",
+    "cookies",
     "system.display",
     "*://*/*",
     "webRequestBlocking",
+    "storage",
     "background"
   ],
   "background": {
