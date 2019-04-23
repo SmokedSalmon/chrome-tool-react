@@ -16,4 +16,6 @@
 
 3. You can add your profile in debuger tool and log in by debug tool.
 
+4. Click go button to debug in localhost.
+
 ![Scheme](image.png)

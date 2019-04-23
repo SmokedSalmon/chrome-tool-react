@@ -1,17 +1,21 @@
 {
-  "name": "DTC",
-  "version": "2.0.2",
-  "description": "This extension is for DTC engineer team local E2E",
+  "name": "DTC-debug",
+  "version": "2.0.3",
+  "description": "This extension is for DTC engineer team local E2E. Local debug launch by Go BTN.",
   "author": "Roman",
   "permissions": [
-    "tabs",
     "webRequest",
-    "activeTab",
     "cookies",
+    "storage",
+    "<all_urls>",
+    "downloads",
+    "clipboardRead",
+    "clipboardWrite",
+    "tabs",
+    "activeTab",
     "system.display",
     "*://*/*",
     "webRequestBlocking",
-    "storage",
     "background"
   ],
   "background": {
