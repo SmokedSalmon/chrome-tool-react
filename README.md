@@ -5,7 +5,8 @@
 
 
 ## Getting Started
-
+ 
+support DSP log on in 2.0.3 !!!
 
 
 1. Tick Devloper mode in chrome extension tab.
