@@ -19,7 +19,7 @@ support DSP log on in 2.0.3 !!!
 
 4. Click go button to debug in localhost.
 
-5. if you don't connect server use local env, please downlaod xhr.js and replace it in axios.
+5. if you don't connect server use local env(( error in DTCUI-L001)), please downlaod xhr.js and replace it in axios.
 
 
 ![Scheme](image.png)
