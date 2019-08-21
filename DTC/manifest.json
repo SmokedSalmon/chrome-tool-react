@@ -1,6 +1,6 @@
 {
-  "name": "DTC-debug",
-  "version": "2.0.3",
+  "name": "DTC debug tool",
+  "version": "2.0.4",
   "description": "This extension is for DTC engineer team local E2E. Local debug launch by Go BTN.",
   "author": "Roman",
   "permissions": [
